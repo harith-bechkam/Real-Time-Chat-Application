@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Real-Time-Chat-Application/static/css/main.4736beb7.chunk.css",
-    "main.js": "/Real-Time-Chat-Application/static/js/main.d03cc2af.chunk.js",
-    "main.js.map": "/Real-Time-Chat-Application/static/js/main.d03cc2af.chunk.js.map",
+    "main.js": "/Real-Time-Chat-Application/static/js/main.895862e1.chunk.js",
+    "main.js.map": "/Real-Time-Chat-Application/static/js/main.895862e1.chunk.js.map",
     "runtime~main.js": "/Real-Time-Chat-Application/static/js/runtime~main.493c7cfa.js",
     "runtime~main.js.map": "/Real-Time-Chat-Application/static/js/runtime~main.493c7cfa.js.map",
     "static/js/2.bffb7481.chunk.js": "/Real-Time-Chat-Application/static/js/2.bffb7481.chunk.js",
     "static/js/2.bffb7481.chunk.js.map": "/Real-Time-Chat-Application/static/js/2.bffb7481.chunk.js.map",
     "index.html": "/Real-Time-Chat-Application/index.html",
-    "precache-manifest.9e1baccd9cfcd9b0db581ce2824a33eb.js": "/Real-Time-Chat-Application/precache-manifest.9e1baccd9cfcd9b0db581ce2824a33eb.js",
+    "precache-manifest.6bf1cd89236d443fe3b9ff292fea7610.js": "/Real-Time-Chat-Application/precache-manifest.6bf1cd89236d443fe3b9ff292fea7610.js",
     "service-worker.js": "/Real-Time-Chat-Application/service-worker.js",
     "static/css/main.4736beb7.chunk.css.map": "/Real-Time-Chat-Application/static/css/main.4736beb7.chunk.css.map"
   }
