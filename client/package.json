@@ -1,4 +1,5 @@
 {
+  "homepage": "https://harith-bechkam.github.io/Real-Time-Chat-Application",
   "name": "project_chat_application",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
     "socket.io-client": "^2.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,6 +42,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^1.7.0"
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "gh-pages": "^3.2.3"
   }
 }
